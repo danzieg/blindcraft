@@ -1,2 +1,2 @@
 # blindcraft
-A blindcraft repository website 
+A blindcraft wbsite for blind people.
