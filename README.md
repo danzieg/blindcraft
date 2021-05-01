@@ -1,2 +1,2 @@
 # blindcraft
-A blindcraft wbsite for blind people.
+A blindcraft website for blind people.
