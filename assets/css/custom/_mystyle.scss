@@ -1,5 +1,6 @@
 .mybackground {
 background: #385383;
+font-family: 'Noto Sans JP', sans-serif;
 }
 
 .mybg {
@@ -14,7 +15,7 @@ background: #949595;
 body {
     margin: 0;
     background: #000000;
-    font-family: Arial;
+    font-family: 'Noto Sans JP', sans-serif;
     font-weight: 300;
 }
 
@@ -24,7 +25,7 @@ body {
 }
 
 nav{
-    float: right;
+    margin-right: auto;
 }
 
 nav ul {
@@ -41,4 +42,5 @@ padding-top: 25px;
 
 nav a{
     color: rgb(0, 0, 0);
+    text-transform: uppercase;
 }
