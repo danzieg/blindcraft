@@ -7,14 +7,9 @@ font-family: 'Noto Sans JP', sans-serif;
 background: #949595;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
-}
 
 body {
     margin-left: auto;
-    background: #000000;
     font-family: 'Noto Sans JP', sans-serif;
     font-weight: 300;
 }
@@ -22,10 +17,6 @@ body {
 .logo{
     float: left;
     padding: 10px 0;
-}
-
-nav{
-    margin-right: auto;
 }
 
 nav ul {
@@ -41,6 +32,6 @@ padding-top: 25px;
 }
 
 nav a{
-    color: rgb(0, 0, 0);
+    color: rgb(71, 4, 255);
     text-transform: uppercase;
 }
