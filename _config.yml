@@ -1,2 +1,3 @@
 sass:
-  sass_dir: assets/css
+sass_dir: assets/css
+baseurl: /blindcraft
