@@ -3,11 +3,6 @@ background: #b5c6e4;
 font-family: 'Noto Sans JP', sans-serif;
 }
 
-.mybg {
-background: #949595;
-}
-
-
 body {
     margin-left: auto;
     font-family: 'Noto Sans JP', sans-serif;
@@ -19,19 +14,14 @@ body {
     padding: 10px 0;
 }
 
-nav ul {
-margin: 0;
-padding: 0;
-list-style: none;
-}
-
 nav li{
-display:inline-block;
-margin-left: 30px;
-padding-top: 25px;
-}
+    display:inline-block;
+    margin-left: 30px;
+    padding-top: 25px;
+    }
 
-nav a{
-    color: rgb(71, 4, 255);
-    text-transform: uppercase;
-}
+    nav a{
+        color: rgb(71, 4, 255);
+        text-transform: uppercase;
+    }
+

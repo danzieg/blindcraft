@@ -1,13 +1,9 @@
 /*! Bootstrap v4.3.1 (https://getbootstrap.com/) Copyright 2011-2019 The Bootstrap Authors Copyright 2011-2019 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 .mybackground { background: #b5c6e4; font-family: 'Noto Sans JP', sans-serif; }
 
-.mybg { background: #949595; }
-
 body { margin-left: auto; font-family: 'Noto Sans JP', sans-serif; font-weight: 300; }
 
 .logo { float: left; padding: 10px 0; }
-
-nav ul { margin: 0; padding: 0; list-style: none; }
 
 nav li { display: inline-block; margin-left: 30px; padding-top: 25px; }
 
