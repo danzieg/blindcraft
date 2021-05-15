@@ -1,8 +1,14 @@
 ---
 layout: default
-title: contact us
+title: Server
 ---
 
-# Contact us
+## Useful resources to use playing Minecraft
 
-- Discord
+random information goes here
+
+---
+
+### Applucation link
+
+Random informaion goes here
